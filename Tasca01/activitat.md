@@ -18,7 +18,7 @@ Per millorar el treball tant a l'oficina com a la carretera, es necessiten aques
 * A l'oficina: Dos ordinadors de sobretaula nous per a l'administrador i el cap de logística. Es recomana fer servir una solució **Cloud** (al núvol) per no haver de comprar un servidor físic car i difícil de mantenir.
 * En ruta: 6 tablets resistents (una per a cada camió i furgoneta). Aquestes tablets han de tenir una funda protectora, GPS i connexió a internet 4G/5G per poder enviar els albarans al moment.
 
-> **[ON POSAR LA IMATGE 1]**: *Pots posar un dibuix o esquema que mostri un núvol al mig connectat amb els ordinadors de l'oficina i les tablets dels transportistes que estan al carrer.*
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/6460acff-fda8-47a7-ab0d-f27f4767c192" />
 
 ---
 

@@ -56,4 +56,5 @@ Aquest és el resum del que costarà posar en marxa el pla:
 | Formació | Explicar als xofers i administratius com funciona. | 500 € |
 | TOTAL |  | 6.000 € |
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/2d27696c-d62b-4e6a-8323-9b3958b6caca" />
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/23c2d23c-1585-4db6-958c-01b81d266f43" />
+

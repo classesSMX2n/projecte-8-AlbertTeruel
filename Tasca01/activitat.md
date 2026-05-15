@@ -57,4 +57,4 @@ Aquest és el resum del que costarà posar en marxa el pla:
 | Formació | Explicar als xofers i administratius com funciona. | 500 € |
 | TOTAL |  | 6.000 € |
 
-> **[ON POSAR LA IMATGE 2]**: *Aquí pots posar una captura de pantalla de com es veu un programa de gestió de transports modern, amb mapes i llistes de vehicles, per mostrar que és molt més fàcil de llegir que l'Excel.*
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/2d27696c-d62b-4e6a-8323-9b3958b6caca" />

@@ -31,15 +31,15 @@ Per millorar el treball tant a l'oficina com a la carretera, es necessiten aques
 
 ## 3. Proposta de Programari (Software)
 
-Hem comparat dues maneres de substituir l'Excel:
+S'ha seleccionat la plataforma ERP Odoo Enterprise sota la modalitat Odoo Online (allotjament inclòs al núvol del fabricant) per substituir completament el fitxer d'Excel mitjançant una estructura de mòduls específics:
 
-| Característica | Odoo (Programari Lliure) | SAP / SaaS Comercial |
-| --- | --- | --- |
-| Preu | Més econòmic al principi. | Es paga una quota cada mes. |
-| Adaptació | Es pot canviar per adaptar-lo exactament al que vol l'empresa. | És més rígid i costa més de canviar. |
-| Suport | El manteniment el fa la nostra empresa d'informàtica. | El suport el dóna directament el fabricant del programa. |
-
-Decisió: Recomanem instal·lar Odoo amb els mòduls de Flota i Facturació perquè és més flexible i permetrà que l'empresa creixi sense pagar massa per cada usuari nou.
+| Component | Característica i Mòdul | Aplicació específica a TransRàpid S.L. | Cost |
+| --- | --- | --- | --- |
+| Allotjament | Odoo Online | El sistema s'executa al núvol oficial del fabricant. S'elimina el manteniment de servidors locals. | Inclòs en la llicència |
+| Gestió de Flota | Mòdul Odoo Fleet | Fitxa tècnica dels 2 camions i 4 furgonetes. Control de quilometratges, despeses de benzina i alertes de revisions, ITV i assegurances. | Inclòs en la llicència |
+| Facturació | Mòdul Odoo Invoicing | Creació simultània de factures per a administració i logística sense bloquejos. Conversió d'albarans a factures sense reescriure dades. | Inclòs en la llicència |
+| Albarà Digital | Mòdul Odoo Sign | El client signa directament sobre la tablet Samsung en el moment del lliurament. El PDF es puja immediatament a l'oficina. | Inclòs en la llicència |
+| Subscripció | Llicències d'usuari | Es requereixen 3 llicències completes per a l'oficina (Administració, Logística, Direcció). Els xofers operen gratuïtament des del portal de ruta. Preu normal establert sense campanyes. | 14,90 € usuari/mes (536,40 €/any total) |
 
 ---
 
@@ -53,13 +53,13 @@ Per garantir la disponibilitat immediata de la informació i protegir les dades 
 3. 1 còpia fora de l'oficina: Totes les còpies de seguretat estaran fora de les instal·lacions físiques de TransRàpid S.L. per evitar pèrdues en cas d'incendi o robatori. Es mantindrà un històric de retenció de 30 dies.
 
 
-* Control d'accés per rols (RBAC): Cada treballador tindrà un usuari uniquíssim i contrasenya. Els xofers tindran un perfil restringit a la tablet on només podran visualitzar la seva pròpia ruta i registrar els seus albarans. No tindran accés a les dades de facturació global ni a la informació dels altres vehicles, protegint la confidencialitat de l'empresa.
+* Control d'accés per rols (RBAC): Cada treballador tindrà un usuari únic i contrasenya. Els xofers tindran un perfil restringit a la tablet on només podran visualitzar la seva pròpia ruta i registrar els seus albarans. No tindran accés a les dades de facturació global ni a la informació dels altres vehicles, protegint la confidencialitat de l'empresa.
 
 ---
 
 ## 5. Pressupost de Digitalització
 
-Resum tancat de la inversió requerida per a la implementació del projecte amb l'actualització de preus reals (tots els preus de maquinari inclouen l'IVA):
+Resum tancat de la inversió requerida per a la implementació del projecte (tots els preus inclouen l'IVA i reflecteixen el cost de llicència estàndard anual sense descomptes temporals):
 
 | Concepte | Detalls del model i quantitat | Preu Total |
 | --- | --- | --- |
@@ -67,9 +67,10 @@ Resum tancat de la inversió requerida per a la implementació del projecte amb 
 | Monitors d'oficina | 2 unitats de DELL SE2422H de 23,8". | 404,00 € |
 | Tablets de ruta | 6 unitats de Samsung Galaxy Tab Active5 5G. | 2.358,00 € |
 | Suports de vehicle | 6 unitats de suports carregadors RAM Mounts RAM-HOL-SAM60CPU. | 504,90 € |
-| Configuració del sistema | Instal·lació d'Odoo al núvol, alta d'usuaris i migració de les dades de l'Excel. | 2.000,00 € |
+| Llicències de programari | 3 usuaris d'Odoo Enterprise Pla Estàndard (Cost anual normal). | 536,40 € |
+| Serveis de configuració | Parametrització del sistema, alta d'usuaris i migració de l'històric d'Excel. | 2.000,00 € |
 | Formació de personal | 8 hores de formació pràctica per a xofers i personal administratiu. | 500,00 € |
-| TOTAL INVERSIÓ |  | 7.544,92 € |
+| TOTAL INVERSIÓ |  | 8.081,32 € |
 
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/23c2d23c-1585-4db6-958c-01b81d266f43" />
 

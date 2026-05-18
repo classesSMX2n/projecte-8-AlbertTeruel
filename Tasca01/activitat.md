@@ -1,5 +1,7 @@
 # Informe de Solució Tecnològica: TransRàpid S.L.
 
+<img width="2048" height="1117" alt="Diseño sin título (1)" src="https://github.com/user-attachments/assets/3f6c5719-709d-4b6b-b163-3a0fd32bd744" />
+
 ## 1. Diagnòstic de la situació (Punts de dolor)
 
 Actualment, l'empresa gestiona toda la flota amb un únic fitxer d'Excel, la qual cosa provoca els següents problemes:

@@ -1,6 +1,4 @@
-El plantejament inicial és deficient. Ampliar memòria en equips sobreescalfats és un error tècnic de principiant. Aplicar l'indicador PUE a una oficina demostra desconeixement; és una mètrica de centres de dades.
-
-A continuació, l'execució estricta, depurada de text innecessari.
+# Tasca 02. Pla de sostenibilitat
 
 ### Fase 1: Diagnòstic i Auditoria
 

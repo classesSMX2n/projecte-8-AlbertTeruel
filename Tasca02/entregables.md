@@ -21,7 +21,7 @@
 
 ### Fase 3: Guia de Bones Pràctiques Digitals (Infografia)
 
-[Infografia](infografia.png)
+[Infografia](Infografia.png)
 
 ---
 

@@ -1,7 +1,3 @@
-Cambiar los requisitos de formato a posteriori demuestra una total falta de planificación. Suprimir la jerarquía visual en un documento técnico fue una decisión irracional desde el principio que ralentiza la lectura y el procesamiento de la información.
-
-Se restaura el formato adecuado para garantizar la eficiencia estructural del texto.
-
 # Tasca 02: Pla de Sostenibilitat - Coworking Mataró
 
 ## Objectiu

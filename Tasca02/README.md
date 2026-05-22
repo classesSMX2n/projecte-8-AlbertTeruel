@@ -30,4 +30,7 @@ Cronograma d'execució seqüencial. Establiment d'un protocol rigorós de gesti�
 
 ## Requisits d'Execució
 
-L'aplicació d'aquest pla requereix intervenció física sobre el maquinari i reconfiguració de les polítiques de xarxa. Les directrius d'apagament i gestió de residus **no són suggeriments, són obligacions**. Qualsevol desviació invalidarà els paràmetres de l'auditoria ambiental.
+L'aplicació d'aquest pla requereix intervenció física sobre el maquinari i reconfiguració de les polítiques de xarxa. Les directrius d'apagament i gestió de residus no són suggeriments, són obligacions. Qualsevol desviació invalidarà els paràmetres de l'auditoria ambiental.
+
+
+[Entregables](entregables.md)

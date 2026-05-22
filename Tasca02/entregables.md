@@ -1,5 +1,7 @@
 # Tasca 02. Pla de sostenibilitat
 
+#### Albert Teruel, Joel Dominguez i Lluis Garcia
+ 
 ### Fase 1: Diagnòstic i Auditoria
 
 * 20 PCs (2018): Estat crític. La manca de RAM satura el disc dur mecànic. El sobreescalfament indica fallada de dissipació, disparant el consum elèctric. Veredicte: Intervenció tèrmica immediata i actualització.
@@ -19,6 +21,7 @@
 
 ### Fase 3: Guia de Bones Pràctiques Digitals (Infografia)
 
+[Infografia](infografia.png)
 
 ---
 

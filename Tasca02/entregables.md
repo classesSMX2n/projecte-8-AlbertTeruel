@@ -10,7 +10,7 @@
 
 ---
 
-### Fase 2: Solucions (Hardware Circular)
+### Fase 2: Solucions
 
 1. Discos SSD SATA III: Eliminen el coll d'ampolla mecànic i redueixen dràsticament el consum d'energia en lectura/escriptura.
 2. Ampliació RAM (8GB DDR4): Elimina l'ús del disc com a memòria virtual, reduint els cicles inútils de la CPU.
@@ -19,7 +19,7 @@
 
 ---
 
-### Fase 3: Guia de Bones Pràctiques Digitals (Infografia)
+### Fase 3: Guia de Bones Pràctiques Digitals
 
 [Infografia](Infografia.png)
 

@@ -20,3 +20,5 @@ Diagnòstic de situació: Llistat de "punts de dolor" que l'empresa pateix amb l
 Catàleg de Hardware: Especificacions tècniques i preus dels equips d'oficina i els dispositius mòbils per als vehicles.
 Estudi Comparatiu de Software: Taula comparativa entre una opció basada en programari lliure (més personalitzable) i una comercial (amb suport directe).
 Pressupost de Digitalització: Desglossament total incloent maquinari, llicències (si n'hi ha) i hores de configuració i formació per als treballadors.
+
+[Activitat](activitat.md)
